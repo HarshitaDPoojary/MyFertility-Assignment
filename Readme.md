@@ -4,7 +4,7 @@ Please create a pixel-perfect version of the https://www.figma.com/design/MUreyx
 
 __Task 1 Output(Using HTML/CSS):__
 
-[Task1 Screenshot](./Output/task1_output.png)
+![Task1 Screenshot](./Output/task1_output.png)
 
 
 ## Task 2
@@ -13,7 +13,7 @@ You are provided with the following HTML and CSS code that sets up the structure
 
 __Task 2 Outputs:__
 __1. Arc__
-[Task1 Screenshot](./Output/task2arc_output.png)
+![Task1 Screenshot](./Output/task2arc_output.png)
 
 __2. Circle__
-[Task2 Screenshot](./Output/task2circle_output.png)
+![Task2 Screenshot](./Output/task2circle_output.png)
